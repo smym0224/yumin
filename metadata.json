@@ -1,0 +1,6 @@
+{
+  "name": "비즈니스 소통 윤문 컨설턴트",
+  "description": "감정적 조율과 임상심리학적 분석을 가미하여, 날것의 대화 초안을 모드별(거절, 비즈니스, 사과, 피드백) 고품격 문장으로 윤문하고 심리학적 리스크 분석과 소통 코칭을 제공합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
